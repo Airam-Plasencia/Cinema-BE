@@ -1,30 +1,134 @@
 {
-  "projects": [
-    
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack."
-    }
-  ],
-  "tasks": [
+  "movies": [
     {
       "id": 1,
-      "projectId": 1,
-      "title": "Task 1",
-      "description": "Use Vite to create a basic React app"
+      "title": "Retrato de una mujer en llamas",
+      "year": 2019,
+      "duration": "121 minutos",
+      "director": "Céline Sciamma",
+      "screenplay": "Céline Sciamma",
+      "cast": ["Noémie Merlant", "Adèle Haenel", "Luàna Bajrami"],
+      "music": "Jean-Baptiste de Laubier",
+      "genre": ["Drama", "Romántico"],
+      "synopsis": "Una pintora retrata a una mujer noble en la Francia del siglo XVIII, mientras se desarrollan sentimientos de amor entre ellas.",
+      "posterUrl": "https://es.pinterest.com/pin/17381148555436852/"
     },
     {
       "id": 2,
-      "projectId": 1,
-      "title": "Task 2",
-      "description": "Install React Router and setup routes"
+      "title": "Past Lives",
+      "year": 2023,
+      "duration": "106 minutos",
+      "director": "Celine Song",
+      "screenplay": "Celine Song",
+      "cast": ["Greta Lee", "Teo Yoo", "John Magaro"],
+      "music": "Kimya Dawson",
+      "genre": ["Drama", "Romántico"],
+      "synopsis": "Dos amigos de la infancia, separados por la distancia y el tiempo, se reencuentran años después, cuestionando el amor y el destino.",
+      "posterUrl": "https://es.pinterest.com/pin/297237644178678482/"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "title": "Task 3",
-      "description": "Create a form with 5 input fields"
+      "title": "Cinema Paradiso",
+      "year": 1988,
+      "duration": "155 minutos",
+      "director": "Giuseppe Tornatore",
+      "screenplay": "Giuseppe Tornatore",
+      "cast": ["Jacques Perrin", "Philippe Noiret", "Salvatore Cascio"],
+      "music": "Ennio Morricone",
+      "genre": ["Drama", "Comedia"],
+      "synopsis": "Un joven llamado Salvatore recuerda su infancia en un pequeño pueblo italiano, donde su amor por el cine se ve influenciado por un proyeccionista y su amistad.",
+      "posterUrl": "https://es.pinterest.com/pin/42432421483042951/"
+    },
+    {
+      "id": 4,
+      "title": "Best Offer",
+      "year": 2013,
+      "duration": "124 minutos",
+      "director": "Giuseppe Tornatore",
+      "screenplay": "Giuseppe Tornatore",
+      "cast": ["Geoffrey Rush", "Jim Sturgess", "Sylvia Hoeks"],
+      "music": "Ennio Morricone",
+      "genre": ["Drama", "Thriller"],
+      "synopsis": "Un experto en subastas se ve atrapado en un misterioso juego de engaños, mientras su vida se entrelaza con la de una mujer enigmática.",
+      "posterUrl": "https://es.pinterest.com/pin/714383559630715507/"
+    },
+    {
+      "id": 5,
+      "title": "Mentes Peligrosas",
+      "year": 1995,
+      "duration": "123 minutos",
+      "director": "John N. Smith",
+      "screenplay": "Ronald Bass",
+      "cast": ["Michelle Pfeiffer", "George Dzundza", "Courtney B. Vance"],
+      "music": "Blanchard",
+      "genre": ["Drama", "Educación"],
+      "synopsis": "Una ex-marine se convierte en profesora en una escuela secundaria problemática, donde debe enfrentar la violencia y la desconfianza de sus alumnos.",
+      "posterUrl": "https://es.pinterest.com/pin/781163497839004203/"
+    },
+    {
+      "id": 6,
+      "title": "Interestelar",
+      "year": 2014,
+      "duration": "169 minutos",
+      "director": "Christopher Nolan",
+      "screenplay": "Jonathan Nolan, Christopher Nolan",
+      "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+      "music": "Hans Zimmer",
+      "genre": ["Ciencia Ficción", "Drama"],
+      "synopsis": "En un futuro distópico, un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
+      "posterUrl": "https://es.pinterest.com/pin/97953360639380048/"
+    },
+    {
+      "id": 7,
+      "title": "El señor de los anillos: La comunidad del anillo",
+      "year": 2001,
+      "duration": "178 minutos",
+      "director": "Peter Jackson",
+      "screenplay": "Fran Walsh, Philippa Boyens, Peter Jackson",
+      "cast": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+      "music": "Howard Shore",
+      "genre": ["Aventura", "Fantasía"],
+      "synopsis": "Un hobbit llamado Frodo Baggins se embarca en una misión para destruir un poderoso anillo y evitar que caiga en manos del malvado Sauron.",
+      "posterUrl": "https://es.pinterest.com/pin/2251868554987124/"
+    },
+    {
+      "id": 8,
+      "title": "La vida de Adèle",
+      "year": 2013,
+      "duration": "179 minutos",
+      "director": "Abdellatif Kechiche",
+      "screenplay": "Abdellatif Kechiche, Ghalia Lacroix",
+      "cast": ["Adèle Exarchopoulos", "Léa Seydoux", "Salim Kechiouche"],
+      "music": "Ghalia Lacroix",
+      "genre": ["Drama", "Romántico"],
+      "synopsis": "Adèle es una joven que vive una profunda historia de amor con una mujer llamada Emma, mientras explora su identidad y su relación con el mundo.",
+      "posterUrl": "https://es.pinterest.com/pin/267753140340274745/"
+    },
+    {
+      "id": 9,
+      "title": "Only Lovers Left Alive",
+      "year": 2013,
+      "duration": "123 minutos",
+      "director": "Jim Jarmusch",
+      "screenplay": "Jim Jarmusch",
+      "cast": ["Tilda Swinton", "Tom Hiddleston", "Mia Wasikowska"],
+      "music": "Jozef Van Wissem, SQÜRL",
+      "genre": ["Drama", "Fantasía"],
+      "synopsis": "Dos vampiros inmortales que han vivido siglos juntos se enfrentan a la amenaza de la decadencia y el paso del tiempo.",
+      "posterUrl": "https://es.pinterest.com/pin/123497214774925770/"
+    },
+    {
+      "id": 10,
+      "title": "Cloud Atlas",
+      "year": 2012,
+      "duration": "172 minutos",
+      "director": "Tom Tykwer, Lana Wachowski, Lilly Wachowski",
+      "screenplay": "David Mitchell, Tom Tykwer, Lana Wachowski, Lilly Wachowski",
+      "cast": ["Tom Hanks", "Halle Berry", "Hugh Grant"],
+      "music": "Tom Tykwer, Johnny Klimek, Reinhold Heil",
+      "genre": ["Drama", "Ciencia Ficción"],
+      "synopsis": "Seis historias interconectadas en el tiempo y el espacio exploran el impacto de las decisiones humanas a lo largo de las vidas y las generaciones.",
+      "posterUrl": "https://es.pinterest.com/pin/317785317476242430/"
     }
   ]
 }
