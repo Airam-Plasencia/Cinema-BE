@@ -7,9 +7,16 @@
       "duration": "121 minutos",
       "director": "Céline Sciamma",
       "screenplay": "Céline Sciamma",
-      "cast": ["Noémie Merlant", "Adèle Haenel", "Luàna Bajrami"],
+      "cast": [
+        "Noémie Merlant",
+        "Adèle Haenel",
+        "Luàna Bajrami"
+      ],
       "music": "Jean-Baptiste de Laubier",
-      "genre": ["Drama", "Romántico"],
+      "genre": [
+        "Drama",
+        "Romántico"
+      ],
       "synopsis": "Una pintora retrata a una mujer noble en la Francia del siglo XVIII, mientras se desarrollan sentimientos de amor entre ellas.",
       "posterUrl": "https://media.themoviedb.org/t/p/original/muAsDE6qAqdKB2VJsIzo1uVSSuM.jpg"
     },
@@ -20,9 +27,16 @@
       "duration": "106 minutos",
       "director": "Celine Song",
       "screenplay": "Celine Song",
-      "cast": ["Greta Lee", "Teo Yoo", "John Magaro"],
+      "cast": [
+        "Greta Lee",
+        "Teo Yoo",
+        "John Magaro"
+      ],
       "music": "Kimya Dawson",
-      "genre": ["Drama", "Romántico"],
+      "genre": [
+        "Drama",
+        "Romántico"
+      ],
       "synopsis": "Dos amigos de la infancia, separados por la distancia y el tiempo, se reencuentran años después, cuestionando el amor y el destino.",
       "posterUrl": "https://media.themoviedb.org/t/p/original/jWrJrLMD7SZoxc65KSYej6QOw12.jpg"
     },
@@ -33,9 +47,16 @@
       "duration": "155 minutos",
       "director": "Giuseppe Tornatore",
       "screenplay": "Giuseppe Tornatore",
-      "cast": ["Jacques Perrin", "Philippe Noiret", "Salvatore Cascio"],
+      "cast": [
+        "Jacques Perrin",
+        "Philippe Noiret",
+        "Salvatore Cascio"
+      ],
       "music": "Ennio Morricone",
-      "genre": ["Drama", "Comedia"],
+      "genre": [
+        "Drama",
+        "Comedia"
+      ],
       "synopsis": "Un joven llamado Salvatore recuerda su infancia en un pequeño pueblo italiano, donde su amor por el cine se ve influenciado por un proyeccionista y su amistad.",
       "posterUrl": "https://media.themoviedb.org/t/p/original/hHwsr3t5n7VVUbPyU8VZswn0jkL.jpg"
     },
@@ -46,9 +67,16 @@
       "duration": "124 minutos",
       "director": "Giuseppe Tornatore",
       "screenplay": "Giuseppe Tornatore",
-      "cast": ["Geoffrey Rush", "Jim Sturgess", "Sylvia Hoeks"],
+      "cast": [
+        "Geoffrey Rush",
+        "Jim Sturgess",
+        "Sylvia Hoeks"
+      ],
       "music": "Ennio Morricone",
-      "genre": ["Drama", "Thriller"],
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
       "synopsis": "Un experto en subastas se ve atrapado en un misterioso juego de engaños, mientras su vida se entrelaza con la de una mujer enigmática.",
       "posterUrl": "https://media.themoviedb.org/t/p/original/f8mOFP6rfZMLKd2wRTv5AN32c6b.jpg"
     },
@@ -59,9 +87,16 @@
       "duration": "126 minutos",
       "director": "Gus Van Sant",
       "screenplay": "Matt Damon, Ben Affleck",
-      "cast": ["Matt Damon", "Robin Williams", "Ben Affleck"],
+      "cast": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck"
+      ],
       "music": "Danny Elfman",
-      "genre": ["Drama", "Romántico"],
+      "genre": [
+        "Drama",
+        "Romántico"
+      ],
       "synopsis": "Will Hunting, un joven prodigio matemático, lucha con sus demonios internos mientras intenta encontrar su propósito en la vida, con la ayuda de un terapeuta.",
       "posterUrl": "https://media.themoviedb.org/t/p/original/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg"
     },
@@ -72,9 +107,17 @@
       "duration": "81 minutos",
       "director": "Satoshi Kon",
       "screenplay": "Sadayuki Murai",
-      "cast": ["Junko Iwao", "Rica Matsumoto", "Tôru Furuya"],
+      "cast": [
+        "Junko Iwao",
+        "Rica Matsumoto",
+        "Tôru Furuya"
+      ],
       "music": "Masahiro Bessho",
-      "genre": ["Animación", "Psicológico", "Thriller"],
+      "genre": [
+        "Animación",
+        "Psicológico",
+        "Thriller"
+      ],
       "synopsis": "Una cantante pop retirada se enfrenta a una crisis de identidad cuando se convierte en actriz, mientras un acosador y una serie de sucesos extraños amenazan su vida.",
       "posterUrl": "https://media.themoviedb.org/t/p/original/kk8p22JheV6MB0fBXOOUgZK9UWQ.jpg"
     },
@@ -85,9 +128,16 @@
       "duration": "178 minutos",
       "director": "Peter Jackson",
       "screenplay": "Fran Walsh, Philippa Boyens, Peter Jackson",
-      "cast": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+      "cast": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen"
+      ],
       "music": "Howard Shore",
-      "genre": ["Aventura", "Fantasía"],
+      "genre": [
+        "Aventura",
+        "Fantasía"
+      ],
       "synopsis": "Un hobbit llamado Frodo Baggins se embarca en una misión para destruir un poderoso anillo y evitar que caiga en manos del malvado Sauron.",
       "posterUrl": "https://media.themoviedb.org/t/p/original/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg"
     },
@@ -98,9 +148,16 @@
       "duration": "125 minutos",
       "director": "Hayao Miyazaki",
       "screenplay": "Hayao Miyazaki",
-      "cast": ["Rumi Hiiragi", "Miyu Irino", "Mari Natsuki"],
+      "cast": [
+        "Rumi Hiiragi",
+        "Miyu Irino",
+        "Mari Natsuki"
+      ],
       "music": "Joe Hisaishi",
-      "genre": ["Animación", "Fantasía"],
+      "genre": [
+        "Animación",
+        "Fantasía"
+      ],
       "synopsis": "Una niña llamada Chihiro se ve atrapada en un mundo espiritual mientras trata de encontrar a sus padres, enfrentándose a criaturas y desafíos mágicos.",
       "posterUrl": "https://media.themoviedb.org/t/p/original/laXrmaTRuroArSPfsGlvTbeWxVA.jpg"
     },
@@ -111,9 +168,16 @@
       "duration": "123 minutos",
       "director": "Jim Jarmusch",
       "screenplay": "Jim Jarmusch",
-      "cast": ["Tilda Swinton", "Tom Hiddleston", "Mia Wasikowska"],
+      "cast": [
+        "Tilda Swinton",
+        "Tom Hiddleston",
+        "Mia Wasikowska"
+      ],
       "music": "Jozef Van Wissem, SQÜRL",
-      "genre": ["Drama", "Fantasía"],
+      "genre": [
+        "Drama",
+        "Fantasía"
+      ],
       "synopsis": "Dos vampiros inmortales que han vivido siglos juntos se enfrentan a la amenaza de la decadencia y el paso del tiempo.",
       "posterUrl": "https://media.themoviedb.org/t/p/original/dz9ymSb1YoBwHkiaHfvPttM0v7J.jpg"
     },
@@ -124,9 +188,16 @@
       "duration": "172 minutos",
       "director": "Tom Tykwer, Lana Wachowski, Lilly Wachowski",
       "screenplay": "David Mitchell, Tom Tykwer, Lana Wachowski, Lilly Wachowski",
-      "cast": ["Tom Hanks", "Halle Berry", "Hugh Grant"],
+      "cast": [
+        "Tom Hanks",
+        "Halle Berry",
+        "Hugh Grant"
+      ],
       "music": "Tom Tykwer, Johnny Klimek, Reinhold Heil",
-      "genre": ["Drama", "Ciencia Ficción"],
+      "genre": [
+        "Drama",
+        "Ciencia Ficción"
+      ],
       "synopsis": "Seis historias interconectadas en el tiempo y el espacio exploran el impacto de las decisiones humanas a lo largo de las vidas y las generaciones.",
       "posterUrl": "https://media.themoviedb.org/t/p/original/xx1d4FKmtL16r20kyVVoHMFIl96.jpg"
     },
@@ -137,9 +208,16 @@
       "duration": "179 minutos",
       "director": "Abdellatif Kechiche",
       "screenplay": "Abdellatif Kechiche, Ghalia Lacroix",
-      "cast": ["Léa Seydoux", "Adèle Exarchopoulos", "Salim Kechiouche"],
+      "cast": [
+        "Léa Seydoux",
+        "Adèle Exarchopoulos",
+        "Salim Kechiouche"
+      ],
       "music": "Akhenaton",
-      "genre": ["Drama", "Romántico"],
+      "genre": [
+        "Drama",
+        "Romántico"
+      ],
       "synopsis": "Adèle, una joven de 15 años, vive un apasionado romance con Emma, una mujer de cabello azul, mientras enfrenta las complejidades de su vida y de su identidad.",
       "posterUrl": "https://media.themoviedb.org/t/p/original/en27JWtPoF2nsWPqFoI8lj3y66d.jpg"
     },
@@ -150,9 +228,17 @@
       "duration": "100 minutos",
       "director": "Nicolas Winding Refn",
       "screenplay": "Hossein Amini",
-      "cast": ["Ryan Gosling", "Carey Mulligan", "Bryan Cranston"],
+      "cast": [
+        "Ryan Gosling",
+        "Carey Mulligan",
+        "Bryan Cranston"
+      ],
       "music": "Cliff Martinez",
-      "genre": ["Acción", "Crimen", "Drama"],
+      "genre": [
+        "Acción",
+        "Crimen",
+        "Drama"
+      ],
       "synopsis": "Un conductor de películas de acción nocturnas se ve atrapado en un enredo criminal después de ayudar a su vecina y su hijo.",
       "posterUrl": "https://media.themoviedb.org/t/p/original/cVWSBuCb7rzcHCRtXRlcH4XLHdX.jpg"
     }
