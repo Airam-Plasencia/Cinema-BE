@@ -11,7 +11,7 @@
       "music": "Jean-Baptiste de Laubier",
       "genre": ["Drama", "Romántico"],
       "synopsis": "Una pintora retrata a una mujer noble en la Francia del siglo XVIII, mientras se desarrollan sentimientos de amor entre ellas.",
-      "posterUrl": "https://es.pinterest.com/pin/17381148555436852/"
+      "posterUrl": "https://media.themoviedb.org/t/p/original/muAsDE6qAqdKB2VJsIzo1uVSSuM.jpg"
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
       "music": "Kimya Dawson",
       "genre": ["Drama", "Romántico"],
       "synopsis": "Dos amigos de la infancia, separados por la distancia y el tiempo, se reencuentran años después, cuestionando el amor y el destino.",
-      "posterUrl": "https://es.pinterest.com/pin/297237644178678482/"
+      "posterUrl": "https://media.themoviedb.org/t/p/original/jWrJrLMD7SZoxc65KSYej6QOw12.jpg"
     },
     {
       "id": 3,
@@ -37,11 +37,11 @@
       "music": "Ennio Morricone",
       "genre": ["Drama", "Comedia"],
       "synopsis": "Un joven llamado Salvatore recuerda su infancia en un pequeño pueblo italiano, donde su amor por el cine se ve influenciado por un proyeccionista y su amistad.",
-      "posterUrl": "https://es.pinterest.com/pin/42432421483042951/"
+      "posterUrl": "https://media.themoviedb.org/t/p/original/hHwsr3t5n7VVUbPyU8VZswn0jkL.jpg"
     },
     {
       "id": 4,
-      "title": "Best Offer",
+      "title": "The Best Offer",
       "year": 2013,
       "duration": "124 minutos",
       "director": "Giuseppe Tornatore",
@@ -50,33 +50,33 @@
       "music": "Ennio Morricone",
       "genre": ["Drama", "Thriller"],
       "synopsis": "Un experto en subastas se ve atrapado en un misterioso juego de engaños, mientras su vida se entrelaza con la de una mujer enigmática.",
-      "posterUrl": "https://es.pinterest.com/pin/714383559630715507/"
+      "posterUrl": "https://media.themoviedb.org/t/p/original/f8mOFP6rfZMLKd2wRTv5AN32c6b.jpg"
     },
     {
       "id": 5,
-      "title": "Mentes Peligrosas",
-      "year": 1995,
-      "duration": "123 minutos",
-      "director": "John N. Smith",
-      "screenplay": "Ronald Bass",
-      "cast": ["Michelle Pfeiffer", "George Dzundza", "Courtney B. Vance"],
-      "music": "Blanchard",
-      "genre": ["Drama", "Educación"],
-      "synopsis": "Una ex-marine se convierte en profesora en una escuela secundaria problemática, donde debe enfrentar la violencia y la desconfianza de sus alumnos.",
-      "posterUrl": "https://es.pinterest.com/pin/781163497839004203/"
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "duration": "126 minutos",
+      "director": "Gus Van Sant",
+      "screenplay": "Matt Damon, Ben Affleck",
+      "cast": ["Matt Damon", "Robin Williams", "Ben Affleck"],
+      "music": "Danny Elfman",
+      "genre": ["Drama", "Romántico"],
+      "synopsis": "Will Hunting, un joven prodigio matemático, lucha con sus demonios internos mientras intenta encontrar su propósito en la vida, con la ayuda de un terapeuta.",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg"
     },
     {
       "id": 6,
-      "title": "Interestelar",
-      "year": 2014,
-      "duration": "169 minutos",
-      "director": "Christopher Nolan",
-      "screenplay": "Jonathan Nolan, Christopher Nolan",
-      "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
-      "music": "Hans Zimmer",
-      "genre": ["Ciencia Ficción", "Drama"],
-      "synopsis": "En un futuro distópico, un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
-      "posterUrl": "https://es.pinterest.com/pin/97953360639380048/"
+      "title": "Perfect Blue",
+      "year": 1997,
+      "duration": "81 minutos",
+      "director": "Satoshi Kon",
+      "screenplay": "Sadayuki Murai",
+      "cast": ["Junko Iwao", "Rica Matsumoto", "Tôru Furuya"],
+      "music": "Masahiro Bessho",
+      "genre": ["Animación", "Psicológico", "Thriller"],
+      "synopsis": "Una cantante pop retirada se enfrenta a una crisis de identidad cuando se convierte en actriz, mientras un acosador y una serie de sucesos extraños amenazan su vida.",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/kk8p22JheV6MB0fBXOOUgZK9UWQ.jpg"
     },
     {
       "id": 7,
@@ -89,20 +89,20 @@
       "music": "Howard Shore",
       "genre": ["Aventura", "Fantasía"],
       "synopsis": "Un hobbit llamado Frodo Baggins se embarca en una misión para destruir un poderoso anillo y evitar que caiga en manos del malvado Sauron.",
-      "posterUrl": "https://es.pinterest.com/pin/2251868554987124/"
+      "posterUrl": "https://media.themoviedb.org/t/p/original/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg"
     },
     {
       "id": 8,
-      "title": "La vida de Adèle",
-      "year": 2013,
-      "duration": "179 minutos",
-      "director": "Abdellatif Kechiche",
-      "screenplay": "Abdellatif Kechiche, Ghalia Lacroix",
-      "cast": ["Adèle Exarchopoulos", "Léa Seydoux", "Salim Kechiouche"],
-      "music": "Ghalia Lacroix",
-      "genre": ["Drama", "Romántico"],
-      "synopsis": "Adèle es una joven que vive una profunda historia de amor con una mujer llamada Emma, mientras explora su identidad y su relación con el mundo.",
-      "posterUrl": "https://es.pinterest.com/pin/267753140340274745/"
+      "title": "El viaje de Chihiro",
+      "year": 2001,
+      "duration": "125 minutos",
+      "director": "Hayao Miyazaki",
+      "screenplay": "Hayao Miyazaki",
+      "cast": ["Rumi Hiiragi", "Miyu Irino", "Mari Natsuki"],
+      "music": "Joe Hisaishi",
+      "genre": ["Animación", "Fantasía"],
+      "synopsis": "Una niña llamada Chihiro se ve atrapada en un mundo espiritual mientras trata de encontrar a sus padres, enfrentándose a criaturas y desafíos mágicos.",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/laXrmaTRuroArSPfsGlvTbeWxVA.jpg"
     },
     {
       "id": 9,
@@ -115,7 +115,7 @@
       "music": "Jozef Van Wissem, SQÜRL",
       "genre": ["Drama", "Fantasía"],
       "synopsis": "Dos vampiros inmortales que han vivido siglos juntos se enfrentan a la amenaza de la decadencia y el paso del tiempo.",
-      "posterUrl": "https://es.pinterest.com/pin/123497214774925770/"
+      "posterUrl": "https://media.themoviedb.org/t/p/original/dz9ymSb1YoBwHkiaHfvPttM0v7J.jpg"
     },
     {
       "id": 10,
@@ -128,7 +128,33 @@
       "music": "Tom Tykwer, Johnny Klimek, Reinhold Heil",
       "genre": ["Drama", "Ciencia Ficción"],
       "synopsis": "Seis historias interconectadas en el tiempo y el espacio exploran el impacto de las decisiones humanas a lo largo de las vidas y las generaciones.",
-      "posterUrl": "https://es.pinterest.com/pin/317785317476242430/"
+      "posterUrl": "https://media.themoviedb.org/t/p/original/xx1d4FKmtL16r20kyVVoHMFIl96.jpg"
+    },
+    {
+      "id": 11,
+      "title": "La vida de Adèle",
+      "year": 2013,
+      "duration": "179 minutos",
+      "director": "Abdellatif Kechiche",
+      "screenplay": "Abdellatif Kechiche, Ghalia Lacroix",
+      "cast": ["Léa Seydoux", "Adèle Exarchopoulos", "Salim Kechiouche"],
+      "music": "Akhenaton",
+      "genre": ["Drama", "Romántico"],
+      "synopsis": "Adèle, una joven de 15 años, vive un apasionado romance con Emma, una mujer de cabello azul, mientras enfrenta las complejidades de su vida y de su identidad.",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/en27JWtPoF2nsWPqFoI8lj3y66d.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Drive",
+      "year": 2011,
+      "duration": "100 minutos",
+      "director": "Nicolas Winding Refn",
+      "screenplay": "Hossein Amini",
+      "cast": ["Ryan Gosling", "Carey Mulligan", "Bryan Cranston"],
+      "music": "Cliff Martinez",
+      "genre": ["Acción", "Crimen", "Drama"],
+      "synopsis": "Un conductor de películas de acción nocturnas se ve atrapado en un enredo criminal después de ayudar a su vecina y su hijo.",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/cVWSBuCb7rzcHCRtXRlcH4XLHdX.jpg"
     }
   ]
 }
