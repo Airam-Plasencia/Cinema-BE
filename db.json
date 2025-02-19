@@ -255,16 +255,16 @@
       "backgroundImageUrl": "https://image.tmdb.org/t/p/original/wZuQXOiNFqvjs318WM1J6SZ17fc.jpg"
     },
     {
-      "title": "Interestellar",
-      "year": "",
-      "duration": "",
-      "director": "",
-      "screenplay": "",
-      "cast": "",
-      "music": "",
-      "genre": "",
-      "synopsis": "",
-      "posterUrl": "blob:http://localhost:5173/27b58979-9896-4131-a15a-cc6e08757e36",
+      "title": "Interstellar",
+      "year": "2014",
+      "duration": "169",
+      "director": "Christopher Nolan",
+      "screenplay": "Jonathan Nolan",
+      "cast": "Matthew McConaughey, Anne Hathaway, Michael Caine, ",
+      "music": "Hans Zimmer",
+      "genre": "Ciencia ficción",
+      "synopsis": "Exploradores",
+      "posterUrl": "https://media.themoviedb.org/t/p/original/fbUwSqYIP0isCiJXey3staY3DNn.jpg",
       "id": 13
     }
   ]
